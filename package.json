@@ -1,0 +1,25 @@
+{
+  "name": "titan-server-logger",
+  "version": "0.0.1",
+  "description": "log module for serverside logging in nodejs",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/RagedUnicorn/js-server-logger"
+  },
+  "keywords": [
+    "logger server-logger, nodejs"
+  ],
+  "author": "Wiesendanger Michael <michael.wiesendanger@gmail.com>",
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "bugs": {
+    "url": "https://github.com/RagedUnicorn/js-server-logger/issues"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-contrib-jshint": "~0.6.0",
+    "grunt-contrib-nodeunit": "~0.2.0",
+    "grunt-contrib-uglify": "~0.2.2"
+  },
+  "private": true
+}

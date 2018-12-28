@@ -1,0 +1,6 @@
+{
+    "logLevel": "debug",
+    "colorMode": true,
+    "logToFile": true,
+    "file": "default.log"
+}
