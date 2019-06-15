@@ -140,7 +140,7 @@ module.exports = {
                 logger = new Logger('../config.json');
             },
             function (err) {
-                if ((err instanceof Error) && /ENOENT, no such file or directory/.test(err)) {
+                if ((err instanceof Error) && /ENOENT: no such file or directory/.test(err)) {
                     return true;
                 }
             },
